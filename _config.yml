@@ -1,17 +1,19 @@
 # --- Basic options --- #
 
 # Name of website
-title: My website
+title: My First Blog
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: Hello, GitPages
 
 # Your name to show in the footer
-author: Some Person
+author: myha
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Menu1: "menu1"
+  Menu2: "menu2"
   About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
